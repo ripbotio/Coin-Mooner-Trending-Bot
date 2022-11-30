@@ -19,14 +19,13 @@ Advanced Cloudflare bypass system
 [`Show Case`](https://ripbot.io/wp-content/uploads/2022/11/Ripbot-Showcase.mp4
 )
 
-CoinSniper
-Account creation, vote and watchlist options.
-Ability send 150+ coinsniper votes / minute !
-Already being used for sending 500K+ coinsniper upvote / Day.
-Fastest coinsniper upvote in the world!
+CoinMooner
+Fastest coinmooner upvote bot in the world!
+Ability to vote thousands of coinmooner votes / minute !
+Already being used for sending 200k + coinmooner upvote / day!
 
-Cloudflare Bypass.
-2 different captcha APIs (2captcha – anticaptcha).
+Cloudflare Bypass
+3 different captcha APIs (capmonster – 2captcha – anticaptcha).
 Mobile – IPv4 – IPv6 proxy support.
 
 
